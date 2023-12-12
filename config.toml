@@ -32,3 +32,9 @@ excluded-patches = "'GmsCore support' 'Bypass certificate checks'"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 apkmirror-arch = "arm64-v8a"
 build-mode = "module"
+
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "module"
+
