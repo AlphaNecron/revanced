@@ -1,7 +1,4 @@
 YouTube: 18.45.43  
-Music: 6.31.55  
-Instagram: 275.0.0.27.98  
-Messenger: 438.1.0.33.115  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
